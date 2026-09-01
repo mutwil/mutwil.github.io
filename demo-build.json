@@ -1,0 +1,123 @@
+{
+  "schema": 2,
+  "edition": "browser-demo",
+  "importedMusic": false,
+  "landmarkTiers": [
+    "drag"
+  ],
+  "tierBackdrops": [
+    "drag"
+  ],
+  "eventVideos": [],
+  "eventArtIds": [
+    "long_furrow",
+    "cold_census",
+    "the_gouge",
+    "harvest_wheel",
+    "the_spindlemoot",
+    "greenmoor",
+    "the_beadway",
+    "saltline_drift",
+    "sextons_bargain",
+    "threadbare_throne",
+    "hollow_whisper",
+    "hollow_reliquary",
+    "derelict_tender",
+    "derelict_tender_core",
+    "hollows_gift",
+    "dim_convoy",
+    "guttering_hab",
+    "long_fall",
+    "ghost_yard",
+    "running_the_blind",
+    "burrs_trap",
+    "wardens_beacon",
+    "cellar_battery"
+  ],
+  "enemyIds": [
+    "ion_limpet_v2",
+    "husk_drone",
+    "scrap_skiff",
+    "votive_warden",
+    "drift_chapel",
+    "rust_raider",
+    "mendicant_hulk",
+    "tandem_scow",
+    "lockwing_skiff",
+    "the_tinkerer",
+    "pale_vanguard",
+    "broadside_cruiser",
+    "darkling_interceptor",
+    "rust_choir",
+    "tithe_collector",
+    "lull_husk",
+    "hollow_scout"
+  ],
+  "bakedShipKeys": [
+    "mounts:enemy.scrap_skiff",
+    "mounts:enemy.rust_raider",
+    "mounts:enemy.husk_drone",
+    "mounts:enemy.mendicant_hulk",
+    "mounts:enemy.the_tinkerer",
+    "mounts:enemy.pale_vanguard",
+    "mounts:boss.rust_choir",
+    "mounts:enemy.ion_limpet_v2",
+    "mounts:enemy.lull_husk",
+    "mounts:ship.courier",
+    "mounts:enemy.drift_chapel",
+    "mounts:enemy.tandem_scow",
+    "mounts:enemy.darkling_interceptor",
+    "mounts:enemy.votive_warden",
+    "mounts:enemy.broadside_cruiser",
+    "mounts:enemy.tithe_collector",
+    "mounts:enemy.lockwing_skiff",
+    "mounts:boss.tithe_collector"
+  ],
+  "courierPortraitKeys": [
+    "ashtongue"
+  ],
+  "generatedSpriteKeys": [
+    "boss.rust_choir",
+    "enemy.choir",
+    "enemy.drone",
+    "enemy.hulk",
+    "enemy.lance",
+    "enemy.raider",
+    "ship.courier"
+  ],
+  "vaultHullStems": [
+    "vault-01507",
+    "vault-01516",
+    "vault-01520",
+    "vault-01524",
+    "vault-01528",
+    "vault-01537",
+    "vault-01538",
+    "vault-01540",
+    "vault-01542",
+    "vault-01544",
+    "vault-01547",
+    "vault-01555",
+    "vault-01563",
+    "vault-17179",
+    "vault-17193",
+    "vault-17289"
+  ],
+  "enemySummonedCraft": [
+    "tinkerer_scrap_skiff"
+  ],
+  "lockedPilotShips": [],
+  "manifestCardIds": [],
+  "manifestAugmentIds": [],
+  "storyAugmentIds": [],
+  "fullGameSurfaces": false,
+  "teasers": {
+    "schema": 1,
+    "tiers": 3,
+    "civilizations": 4,
+    "cards": 3,
+    "augments": 3,
+    "covenants": 4,
+    "gameplayAssets": false
+  }
+}
