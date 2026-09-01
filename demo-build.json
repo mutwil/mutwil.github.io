@@ -128,6 +128,7 @@
   "manifestAugmentIds": [],
   "storyAugmentIds": [],
   "fullGameSurfaces": false,
+  "lockedLedgerPreview": true,
   "teasers": {
     "schema": 1,
     "tiers": 3,
