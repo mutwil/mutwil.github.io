@@ -1,7 +1,23 @@
 {
   "schema": 2,
   "edition": "browser-demo",
-  "importedMusic": false,
+  "importedMusic": true,
+  "musicSourceFiles": [
+    "0_Frozen_Orbit.m4a",
+    "1_Frozen_Orbit.m4a",
+    "0_Frozen_Planet_explore.m4a",
+    "1_Frozen_Planet_battle.m4a",
+    "TheThirdSong_explore.m4a",
+    "TheThirdSong_battle.m4a",
+    "FourthExplore.m4a",
+    "FourthBattle.m4a",
+    "Fifth_explore.m4a",
+    "Fifth_battle.m4a",
+    "sixth_explore.m4a",
+    "sixth_battle.m4a",
+    "OpeningGood.mp3"
+  ],
+  "musicSetCount": 6,
   "landmarkTiers": [
     "drag"
   ],
