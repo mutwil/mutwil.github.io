@@ -17,7 +17,8 @@
     "sixth_battle.m4a",
     "OpeningGood.mp3"
   ],
-  "musicSetCount": 6,
+  "musicSetCount": 7,
+  "builtInMusicPair": true,
   "landmarkTiers": [
     "drag"
   ],
