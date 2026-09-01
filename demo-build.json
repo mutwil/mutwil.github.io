@@ -129,6 +129,8 @@
   "storyAugmentIds": [],
   "fullGameSurfaces": false,
   "lockedLedgerPreview": true,
+  "organicLedgerDiscovery": true,
+  "universeLoreOpen": true,
   "teasers": {
     "schema": 1,
     "tiers": 3,
