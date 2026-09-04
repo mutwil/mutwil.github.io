@@ -1,24 +1,7 @@
 {
   "schema": 2,
   "edition": "browser-demo",
-  "importedMusic": true,
-  "musicSourceFiles": [
-    "0_Frozen_Orbit.m4a",
-    "1_Frozen_Orbit.m4a",
-    "0_Frozen_Planet_explore.m4a",
-    "1_Frozen_Planet_battle.m4a",
-    "TheThirdSong_explore.m4a",
-    "TheThirdSong_battle.m4a",
-    "FourthExplore.m4a",
-    "FourthBattle.m4a",
-    "Fifth_explore.m4a",
-    "Fifth_battle.m4a",
-    "sixth_explore.m4a",
-    "sixth_battle.m4a",
-    "OpeningGood.mp3"
-  ],
-  "musicSetCount": 7,
-  "builtInMusicPair": true,
+  "importedMusic": false,
   "landmarkTiers": [
     "drag"
   ],
@@ -93,34 +76,6 @@
   "courierPortraitKeys": [
     "ashtongue"
   ],
-  "ledgerPortraitIds": [
-    "lull",
-    "the_gap",
-    "the_quietus_concept",
-    "greenmoor",
-    "harvest_wheel",
-    "the_beadway",
-    "cold_census",
-    "the_gouge",
-    "hollow_reliquary",
-    "hollow_whisper",
-    "long_furrow",
-    "saltline_drift",
-    "sextons_bargain",
-    "the_spindlemoot",
-    "threadbare_throne"
-  ],
-  "publicUniverseArtIds": [
-    "lull",
-    "drag",
-    "span",
-    "apex",
-    "the_lattice",
-    "the_hollow_concept",
-    "the_cant",
-    "the_gap",
-    "the_quietus_concept"
-  ],
   "generatedSpriteKeys": [
     "boss.rust_choir",
     "enemy.choir",
@@ -156,10 +111,6 @@
   "manifestAugmentIds": [],
   "storyAugmentIds": [],
   "fullGameSurfaces": false,
-  "lockedLedgerPreview": true,
-  "organicLedgerDiscovery": true,
-  "universeLoreOpen": true,
-  "discoveredLedgerGraphics": true,
   "teasers": {
     "schema": 1,
     "tiers": 3,
